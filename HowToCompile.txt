@@ -1,0 +1,6 @@
+Read Me:
+1. Compile and Run use command line:
+Compile:  javac Server/*.java
+          javac Client/*.java
+Run:      java Server.Server_Main
+          java Client.Client_Main
